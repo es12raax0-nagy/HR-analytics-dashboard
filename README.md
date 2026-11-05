@@ -58,7 +58,7 @@ Average salary by department and country, salary by years of service, salary dis
 - Average sick leaves in the five largest departments range from 1.41 (Manufacturing) to 2.02 (Facilities/Engineering)
 
 ## Limitations
-- The dataset has no job title or job level, so differences between groups cannot be explained.
+- The dataset has no job title column, so differences between groups cannot be explained.
 - Averages of very small groups are not reliable, so charts use filters for the largest departments and show employee counts in tooltips.
 
 ## Files
